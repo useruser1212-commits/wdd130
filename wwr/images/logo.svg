@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" width="120" height="80" role="img" aria-label="Whitewater Expeditions Logo">
+  <rect width="120" height="80" rx="12" fill="#0f3d4c"/>
+  <path d="M18 46 L42 18 L60 38 L78 16 L102 46 Z" fill="#1e6f78"/>
+  <path d="M12 52 Q28 43 44 52 T76 52 T108 52" fill="none" stroke="#f59e0b" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M12 63 Q28 54 44 63 T76 63 T108 63" fill="none" stroke="#e0f2fe" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="92" cy="22" r="7" fill="#fbbf24"/>
+</svg>
